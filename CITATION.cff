@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository in research, please cite the software."
 type: software
-title: "Active Learning for Astronomical Transients"
+title: "RELAY — Active learning for astronomical transients"
 authors:
   - family-names: Kourtesis
     given-names: Dimitris

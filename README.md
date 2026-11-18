@@ -1,4 +1,6 @@
-# Active Learning for Astronomical Transients
+# RELAY — Active learning for astronomical transients
+
+**R**anking and **E**vidence-based **L**abel **A**cquisition for time-domain surve**y**s.
 
 **A Python toolkit for selecting informative transient candidates, managing label acquisition, and evaluating active-learning strategies.** It combines a reusable, model-independent active-learning core with astronomical integrations developed for AppleCiDEr and historical AstroMiNN experiments.
 
@@ -82,7 +84,7 @@ python -m pip install -e ".[astronomy]"    # PyTorch/torchvision, Astropy, analy
 python -m pip install -e ".[dev,teaching]" # Tests, linting, and notebooks
 ```
 
-The **GitHub repository name is separate from the Python package name**: the installed distribution remains `al-pipeline`, and imports remain `al_pipeline`. Astronomy extras install dependencies, but **do not download historical datasets, trained checkpoints, private registry files, or upstream model implementations**. For the frozen Delta environment, use the [HPC installation guide](docs/delta_installation.md) instead of casually upgrading its scientific dependencies.
+**RELAY is the project name.** The installed Python distribution remains `al-pipeline`, and imports remain `al_pipeline`. Astronomy extras install dependencies, but **do not download historical datasets, trained checkpoints, private registry files, or upstream model implementations**. For the frozen Delta environment, use the [HPC installation guide](docs/delta_installation.md) instead of casually upgrading its scientific dependencies.
 
 ## Repository guide
 

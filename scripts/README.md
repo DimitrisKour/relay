@@ -1,6 +1,6 @@
 # Script navigation
 
-This repository contains a reusable active-learning library **and** the
+[RELAY](../README.md) contains a reusable active-learning library **and** the
 reproducibility code for individual AppleCiDEr experiments. These are not the
 same user interface.
 

@@ -1,6 +1,6 @@
 # Example notebooks
 
-Hands-on examples of the reusable `al_pipeline` active-learning interfaces.
+Hands-on examples of [RELAY](../README.md) using its reusable `al_pipeline` active-learning interfaces.
 The notebooks are designed for participants on their own computers, in Jupyter
 environments, or on shared computing systems. No particular institution or HPC
 platform is required for the introductory example.
